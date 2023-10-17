@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author SAMSUNG
- *
- */
-module MrBet {
-}
